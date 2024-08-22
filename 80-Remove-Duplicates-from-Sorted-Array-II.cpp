@@ -1,17 +1,12 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int p = 0;
-        map<int, int> freq;
-
+        int k = 0;
         for (int i = 0; i < nums.size(); i++) {
-            int x = nums[i];
-            freq[x]++; 
-            
-            if (freq[x] <= 2) {
-                nums[p++] = x; 
+            if (k < 2 || nums[i] != nums[k - 2]) {
+                nums[k++] = nums[i]; 
             }
         }
-        return p;
+        return k;
     }
 };
