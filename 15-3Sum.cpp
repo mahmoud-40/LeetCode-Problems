@@ -7,6 +7,8 @@ vector<vector<int>> threeSum(vector<int>& nums) {
     for (int i = 0; i < nums.size(); i++) {
         if (i > 0 && nums[i] == nums[i - 1]) continue;
 
+        if (nums[i] > 0) break;
+
         int left = i + 1;
         int right = nums.size() - 1;
 
@@ -31,5 +33,6 @@ vector<vector<int>> threeSum(vector<int>& nums) {
     
     return result;
 }
+
 };
 
