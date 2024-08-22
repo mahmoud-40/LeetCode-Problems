@@ -3,7 +3,7 @@ public:
     string filter(const string& s) {
         string t;
         for (char c : s) {
-            if (isalpha(c) || isdigit(c)) {
+            if (isalpha(c) ||  isdigit(c)) {
                 t += tolower(c);
             }
         }
