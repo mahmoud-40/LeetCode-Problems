@@ -8,7 +8,6 @@ public:
         return result;
     }
 
-private:
     void dfs(int curr, int n, vector<int>& result) {
         if (curr > n) return;
         result.push_back(curr);
