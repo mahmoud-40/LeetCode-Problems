@@ -1,34 +1,21 @@
 class Solution {
-private:
-    unordered_map<int, int> memo;
-    unordered_set<string> dict; 
+public:
+    int minExtraChar(string s, vector<string>& dictionary) {
+        unordered_set<string> dict(dictionary.begin(), dictionary.end());
+        int n = s.size();
+        vector<int> dp(n + 1, 0); 
 
-    int dp(const string& s, int idx) {
-        if (idx >= s.size()) 
-            return 0; 
+        for (int i = 1; i <= n; ++i) {
+            dp[i] = dp[i - 1] + 1;
 
-        if (memo.count(idx)) 
-            return memo[idx]; 
-
-        int mn = 1 + dp(s, idx + 1);
-
-        for (int end = idx + 1; end <= s.size(); ++end) {
-            string sub = s.substr(idx, end - idx);
-
-            if (dict.count(sub)) {
-                mn = min(mn, dp(s, end));
+            for (int j = 0; j < i; ++j) {
+                string sub = s.substr(j, i - j);
+                if (dict.count(sub)) {
+                    dp[i] = min(dp[i], dp[j]);
+                }
             }
         }
 
-        memo[idx] = mn; 
-
-        return mn;
-    }
-
-public:
-    int minExtraChar(string s, vector<string>& dictionary) {
-        dict = unordered_set<string>(dictionary.begin(), dictionary.end());
-
-        return dp(s, 0);
+        return dp[n]; 
     }
 };
