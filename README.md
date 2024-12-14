@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
@@ -16,4 +17,24 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3427-special-array-ii) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
