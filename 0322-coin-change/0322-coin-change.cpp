@@ -25,7 +25,7 @@ public:
     int coinChange(vector<int>& coins, int amount) {
         dp.resize(amount + 15, -1);
 
-        sort(coins.begin(), coins.end());
+        //sort(coins.begin(), coins.end());
         
         int ans = fun(coins, amount);
         if(ans == 1e9)
