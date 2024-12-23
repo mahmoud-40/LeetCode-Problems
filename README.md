@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0322-coin-change) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3427-special-array-ii) |
@@ -46,4 +47,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
