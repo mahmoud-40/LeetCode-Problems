@@ -9,10 +9,9 @@ public:
 
         int cnt = 0;
 
-        for(auto ch : s){ 
-            if(mp[ch - 'a'] % 2){ 
+        for(auto i = 0; i < 26 ; i++){ 
+            if(mp[i] % 2){ 
                 cnt++;
-                mp[ch - 'a'] = 0;
             }
         }
 
