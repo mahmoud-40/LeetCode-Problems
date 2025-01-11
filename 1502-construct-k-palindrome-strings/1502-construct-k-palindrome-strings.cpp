@@ -16,6 +16,10 @@ public:
                 cnt++;
                 mp[ch] = 0;
             }
+
+            if(cnt > k){
+                return false;
+            }
         }
 
         if(cnt > k || k > s.size()){
