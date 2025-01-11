@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0322-coin-change](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0494-target-sum) |
+| [0952-word-subsets](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3427-special-array-ii) |
@@ -61,4 +62,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0494-target-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0952-word-subsets) |
+## String
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0952-word-subsets) |
 <!---LeetCode Topics End-->
