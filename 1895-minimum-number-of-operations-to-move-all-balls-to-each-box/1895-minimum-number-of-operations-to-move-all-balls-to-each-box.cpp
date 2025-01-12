@@ -10,7 +10,6 @@ public:
         vector<int> idx;
         ordered_set st;
 
-        // Collect indices of '1' and insert into the ordered set
         for (int i = 0; i < boxes.size(); i++) {
             if (boxes[i] == '1') {
                 idx.push_back(i);
@@ -18,7 +17,6 @@ public:
             }
         }
 
-        // Compute prefix sums of indices
         vector<int> pref(idx.size(), 0);
         if (!idx.empty()) pref[0] = idx[0];
         for (int i = 1; i < idx.size(); i++) {
@@ -34,12 +32,10 @@ public:
 
             int sumL = 0, sumR = 0;
 
-            // Calculate sum of distances to the left
             if (before > 0) {
                 sumL = before * i - (before > 0 ? pref[before - 1] : 0);
             }
 
-            // Calculate sum of distances to the right
             if (after > 0) {
                 sumR = (pref[n - 1] - (before > 0 ? pref[before - 1] : 0)) - after * i;
             }
