@@ -14,11 +14,11 @@ public:
 
         // map<char, int> freq;
         vector<int> freq(26, 0);
-        set<char> st;
+        // set<char> st;
 
         for(auto ch : s){
             freq[ch - 'a']++;
-            st.insert(ch);
+            // st.insert(ch);
         }
 
         int ans = 0;
