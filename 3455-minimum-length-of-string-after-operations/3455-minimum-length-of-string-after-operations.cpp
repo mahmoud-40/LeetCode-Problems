@@ -6,17 +6,18 @@ public:
         // freq[ch] < 3 -> freq[ch] 
         // ans : acbcb -> 5
         // s: aa -> ans = s = aa -> 2
-        // s: abaacbcbb
+        // s: acbcb
         // st : a b c
         // a -> 3 -> 1
         // b -> 4 -> 2
         // c -> 2 -> 2
 
-        map<char, int> freq;
+        // map<char, int> freq;
+        vector<int> freq(26, 0);
         set<char> st;
 
         for(auto ch : s){
-            freq[ch]++;
+            freq[ch - 'a']++;
             st.insert(ch);
         }
 
@@ -37,15 +38,15 @@ public:
         // 
 
         for(auto ch : st){
-            if(freq[ch] >= 3){
-                if(freq[ch] % 2){
+            if(freq[ch - 'a'] >= 3){
+                if(freq[ch - 'a'] % 2){
                     ans++;
                 }
                 else{
                     ans += 2;
                 }
             }else{
-                ans += freq[ch];
+                ans += freq[ch - 'a'];
             }
         }
 
