@@ -36,17 +36,19 @@ public:
         // b -> 8
         // c -> 7
         // 
-
-        for(auto ch : st){
-            if(freq[ch - 'a'] >= 3){
-                if(freq[ch - 'a'] % 2){
+        // a : z
+        
+        for(int i = 0; i < freq.size() ; i++)
+        {
+            if(freq[i] >= 3){
+                if(freq[i] % 2){
                     ans++;
                 }
                 else{
                     ans += 2;
                 }
             }else{
-                ans += freq[ch - 'a'];
+                ans += freq[i];
             }
         }
 
