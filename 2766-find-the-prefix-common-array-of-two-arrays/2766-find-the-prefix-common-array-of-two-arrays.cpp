@@ -1,13 +1,15 @@
 class Solution {
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
-        // map<int, bool> isCommon;
+    // A : 1 3 2 4
+    // B : 3 1 2 4
+
+    // C : 0 2 3 4
 
         vector<bool> isCommon(A.size(), false);
-
-        vector<int> result; // C
-
         int validCounter = 0;
+        
+        vector<int> result;
 
         for(int i = 0; i < A.size() ; i++){
             int a = A[i];
