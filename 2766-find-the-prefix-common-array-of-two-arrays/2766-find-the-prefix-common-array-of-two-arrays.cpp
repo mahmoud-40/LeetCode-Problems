@@ -1,7 +1,10 @@
 class Solution {
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
-        map<int, bool> isCommon;
+        // map<int, bool> isCommon;
+
+        vector<bool> isCommon(A.size(), false);
+
         vector<int> result; // C
 
         int validCounter = 0;
