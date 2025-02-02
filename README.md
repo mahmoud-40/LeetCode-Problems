@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems.
 | [0494-target-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0952-word-subsets](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
