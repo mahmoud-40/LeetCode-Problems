@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
