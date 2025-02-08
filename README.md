@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -60,14 +61,17 @@ This repository contains my solutions to LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -136,6 +140,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
