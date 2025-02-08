@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
 | [0134-gas-station](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -128,4 +129,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
