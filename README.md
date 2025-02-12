@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
@@ -93,6 +94,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -103,6 +105,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
