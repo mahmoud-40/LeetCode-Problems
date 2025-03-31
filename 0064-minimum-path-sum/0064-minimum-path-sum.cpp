@@ -4,21 +4,23 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<int> dp(n, 0);
-        dp[0] = grid[0][0];
-
         // Fill first row
         for (int j = 1; j < n; j++) {
-            dp[j] = dp[j - 1] + grid[0][j];
+            grid[0][j] += grid[0][j - 1];
         }
 
+        // Fill first column
         for (int i = 1; i < m; i++) {
-            dp[0] += grid[i][0];  // Update first column
+            grid[i][0] += grid[i - 1][0];
+        }
+
+        // Fill the rest
+        for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
-                dp[j] = min(dp[j - 1], dp[j]) + grid[i][j];
+                grid[i][j] += min(grid[i - 1][j], grid[i][j - 1]);
             }
         }
 
-        return dp[n - 1];
+        return grid[m - 1][n - 1];
     }
 };
