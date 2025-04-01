@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -87,6 +88,7 @@ This repository contains my solutions to LeetCode problems.
 | [0300-longest-increasing-subsequence](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0494-target-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Breadth-First Search
 |  |
