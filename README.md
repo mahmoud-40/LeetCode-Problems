@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems.
 | [2262-solving-questions-with-brainpower](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3429-special-array-i) |
