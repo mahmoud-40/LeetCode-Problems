@@ -21,3 +21,25 @@ public:
         return nums[l];
     }
 };
+
+/*
+Complexity:
+
+- Time complexity: O(n)
+- Space complexity: *O*(1)
+
+---------------------
+
+class Solution {
+public:
+    int singleNonDuplicate(vector<int>& nums) {
+        int NonDuplicateNum = 0;
+
+        for(int num : nums){
+            NonDuplicateNum ^= num;
+        }
+
+        return NonDuplicateNum;
+    }
+};
+*/
