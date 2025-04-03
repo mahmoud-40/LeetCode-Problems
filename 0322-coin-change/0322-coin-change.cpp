@@ -1,35 +1,38 @@
 class Solution {
 public:
-    vector<int> dp;
-    int fun(vector<int>& coins, int k){
-        if(k == 0)
+    vector<long long> cache;
+
+    long long MinCoinsRequried(int amount, vector<int>& coins)
+    {
+        if(amount < 0){
+            return INT_MAX;
+        }
+
+        if(amount == 0){
             return 0;
-        if(k < 0)
-            return 1e9;
-
-        if(dp[k] != -1){
-            return dp[k];
         }
 
-        int mn = 1e9;
-
-        for(auto c : coins){
-            int ch = fun(coins, k - c);
-
-            if(ch != 1e9)
-                mn = min(mn, ch + 1);
+        if(cache[amount] != -1){
+            return cache[amount];
         }
 
-        return dp[k] = mn; 
+        long long ch = INT_MAX;
+
+        for(auto coin : coins){
+            ch = min(ch, MinCoinsRequried(amount - coin, coins) + 1);
+        }
+
+        return cache[amount] = ch;
     }
+    
     int coinChange(vector<int>& coins, int amount) {
-        dp.resize(amount + 15, -1);
-
-        //sort(coins.begin(), coins.end());
+        cache.resize(amount + 15, -1);
         
-        int ans = fun(coins, amount);
-        if(ans == 1e9)
+        int ans = MinCoinsRequried(amount, coins);
+        
+        if(ans == INT_MAX)
             return -1;
+
         return ans;
     }
 };
