@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems.
 | [1927-maximum-ascending-subarray-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -173,6 +174,7 @@ This repository contains my solutions to LeetCode problems.
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0768-partition-labels](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0768-partition-labels) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sorting
 |  |
 | ------- |
