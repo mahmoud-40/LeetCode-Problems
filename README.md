@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems.
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3429-special-array-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Binary Search
@@ -127,6 +128,7 @@ This repository contains my solutions to LeetCode problems.
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
