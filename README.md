@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems.
 | [0120-triangle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -44,6 +45,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [3427-special-array-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3427-special-array-ii) |
@@ -189,6 +191,7 @@ This repository contains my solutions to LeetCode problems.
 | [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0768-partition-labels](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sorting
