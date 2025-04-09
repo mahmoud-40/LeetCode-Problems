@@ -5,8 +5,6 @@ public:
 
         map<int, int> freq;
 
-        sort(nums.begin(), nums.end());
-
         for(auto num : nums){
             freq[num]++;
         }
