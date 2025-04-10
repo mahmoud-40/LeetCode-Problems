@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
