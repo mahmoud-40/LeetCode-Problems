@@ -227,6 +227,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -239,4 +240,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
