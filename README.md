@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 | [0300-longest-increasing-subsequence](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -73,6 +74,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
