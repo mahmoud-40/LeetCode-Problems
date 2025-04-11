@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems.
 | [0494-target-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0952-word-subsets](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0952-word-subsets) |
+| [0954-maximum-sum-circular-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -60,6 +61,7 @@ This repository contains my solutions to LeetCode problems.
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
@@ -79,6 +81,7 @@ This repository contains my solutions to LeetCode problems.
 ## Monotonic Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
@@ -109,6 +112,7 @@ This repository contains my solutions to LeetCode problems.
 | [0368-largest-divisible-subset](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0494-target-sum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Breadth-First Search
@@ -214,6 +218,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0053-maximum-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Quickselect
 |  |
 | ------- |
