@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems.
 | [0011-container-with-most-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0120-triangle) |
@@ -94,6 +95,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -210,6 +212,7 @@ This repository contains my solutions to LeetCode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
