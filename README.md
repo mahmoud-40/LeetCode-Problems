@@ -86,6 +86,7 @@ This repository contains my solutions to LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -147,6 +148,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
