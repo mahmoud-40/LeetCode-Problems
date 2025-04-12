@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems.
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0120-triangle) |
@@ -106,6 +107,7 @@ This repository contains my solutions to LeetCode problems.
 | [0005-longest-palindromic-substring](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -171,6 +173,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
