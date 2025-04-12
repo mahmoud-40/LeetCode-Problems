@@ -12,15 +12,15 @@ public:
         int cnt = 0, ans = 0;
 
         for(int i = 0 ; i < nums.size() ; i++){ 
-            int x = nums[i]; // 100 4 200 1  
-            if(!mp[x - 1]){ // t 
-               while(mp[x]){ // 1 2 3
-                x++; // 4
-                cnt++; // 4
+            int x = nums[i];    
+            if(!mp[x - 1]){  
+               while(mp[x]){ 
+                x++;  
+                cnt++;  
                } 
             }
 
-            ans = max(ans, cnt); // 4
+            ans = max(ans, cnt);  
 
             cnt = 0;
 
