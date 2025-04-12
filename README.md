@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems.
 | [0011-container-with-most-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
@@ -133,6 +134,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -151,6 +153,7 @@ This repository contains my solutions to LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
@@ -210,6 +213,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 ## Matrix
