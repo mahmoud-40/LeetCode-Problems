@@ -16,16 +16,16 @@ public:
         
         inorder(root,nums);
 
-        priority_queue<int> minHeap;
+        priority_queue<int> pq;
 
         for (int num : nums) {
-            minHeap.push(num);
-            if (minHeap.size() > k) {
-                minHeap.pop();
+            pq.push(num);
+            if (pq.size() > k) {
+                pq.pop();
             }
         }
 
-        return minHeap.top(); 
+        return pq.top(); 
     }
 
     void inorder(TreeNode* root,vector<int>&nums){
