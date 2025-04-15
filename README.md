@@ -267,6 +267,7 @@ This repository contains my solutions to LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -274,6 +275,7 @@ This repository contains my solutions to LeetCode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -281,6 +283,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -296,6 +299,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
