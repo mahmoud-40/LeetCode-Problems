@@ -11,6 +11,8 @@
  */
 class Solution {
 public:
+    // O(n)
+    // O(n) : call stack. o(1) if ignoring
     int goodNodes(TreeNode* root) {
         int _goodNodes = countGood(root, root->val);
         return _goodNodes;
