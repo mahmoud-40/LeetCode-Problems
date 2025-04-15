@@ -145,6 +145,7 @@ This repository contains my solutions to LeetCode problems.
 | [0322-coin-change](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,6 +282,7 @@ This repository contains my solutions to LeetCode problems.
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,6 +291,7 @@ This repository contains my solutions to LeetCode problems.
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +300,7 @@ This repository contains my solutions to LeetCode problems.
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
