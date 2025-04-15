@@ -1,14 +1,23 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        
-        for(int i = 0; i < matrix.size(); i++){
-            int x = lower_bound(matrix[i].begin(), matrix[i].end(), target) - matrix[i].begin();
-            if(x < matrix[i].size() && matrix[i][x] == target){
-                return true;
+        int m = matrix.size(); // Number of rows
+        int n = matrix[0].size(); // Number of columns
+
+        int row = 0;
+        int col = n - 1;
+
+        while (row < m && col >= 0) {
+            int current = matrix[row][col];
+            if (current == target) {
+                return true; 
+            } else if (current > target) {
+                col--; 
+            } else {
+                row++; // Move down
             }
         }
 
-        return false;
+        return false; // Target not found
     }
 };
