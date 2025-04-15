@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -120,6 +121,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
@@ -192,6 +194,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0768-partition-labels) |
