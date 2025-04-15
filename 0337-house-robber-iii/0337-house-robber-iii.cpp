@@ -1,41 +1,22 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     unordered_map<TreeNode*, int> dp;
 
     int rob(TreeNode* root) {
-        return dfs(root);
+        return sol(root);
     }
 
-    int dfs(TreeNode* node){ // 3
-        if(node == nullptr){
-            return 0;
-        }
+    int sol(TreeNode* node){ // 3
+        if(!node) return 0;
+	int &ret = dp[node];
+	if(ret) return ret;
+	// take
+int ch1 = node->val;
+if(node->right) ch1 += sol(node->right->right) + sol(node->right->left);
+if(node->left) ch1 += sol(node->left->right) + sol(node->left->left);
+// leave
+	int ch2 = sol(node -> right) + sol(node->left);
+	return ret = max(ch1, ch2);
 
-        if(dp.count(node)){ 
-            return dp[node];
-        }
-
-        int take = node->val; // 3  -> 4   5
-        
-        if(node->right != nullptr)
-            take += dfs(node->right->right) + dfs(node->right->left); // 1 
-        
-        if(node->left != nullptr)
-            take += dfs(node->left->right) + dfs(node->left->left); // 1 3 
-
-        int leave = dfs(node->left) + dfs(node->right); // 4 + 5
-
-        return dp[node] = max(take, leave); // 8 , 9  => dp[node] = 9
     }
 };
