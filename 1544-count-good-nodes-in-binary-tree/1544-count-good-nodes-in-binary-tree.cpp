@@ -13,10 +13,10 @@ class Solution {
 public:
     int goodNodes(TreeNode* root) {
         int _goodNodes = countGood(root, root->val);
-        return _goodNodes / 2;
+        return _goodNodes;
     }
 
-    int countGood(TreeNode* node, int mxValue){ // 3 3 4 2
+    int countGood(TreeNode* node, int mxValue){  
         if(!node){
             return 0;
         }
@@ -25,14 +25,14 @@ public:
         int left = 0;
 
         if(mxValue <= node->val){
-            right = countGood(node->right, node->val) + 1; // 0 
-            left = countGood(node->left, node->val) + 1; // 3 4
+            right = countGood(node->right, node->val) + 1;  
+            left = countGood(node->left, node->val);  
         }
         else{
-            right = countGood(node->right, mxValue); // 2
+            right = countGood(node->right, mxValue);  
             left = countGood(node->left, mxValue);
         }
 
-        return (right + left); // 1 2 3
+        return (right + left);  
     }
 };
