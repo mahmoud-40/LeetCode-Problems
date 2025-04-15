@@ -4,17 +4,22 @@ public:
         int m = matrix.size();  
         int n = matrix[0].size();  
 
-        int row = 0;
-        int col = n - 1;
+        int l = 0, r = (m * n) - 1;
+    
+        while (l <= r){
+            int mid = l + (r - l) / 2;
+            
+            int row = mid / n;
+            int col = mid % n;
 
-        while (row < m && col >= 0) {
             int current = matrix[row][col];
+            
             if (current == target) {
                 return true; 
             } else if (current > target) {
-                col--; 
+                r = mid - 1;; 
             } else {
-                row++; 
+                l = mid + 1; 
             }
         }
 
