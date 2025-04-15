@@ -14,10 +14,10 @@ public:
             } else if (current > target) {
                 col--; 
             } else {
-                row++; // Move down
+                row++; 
             }
         }
 
-        return false; // Target not found
+        return false; 
     }
 };
