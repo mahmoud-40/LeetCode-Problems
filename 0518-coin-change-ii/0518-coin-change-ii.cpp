@@ -1,20 +1,24 @@
 class Solution {
 public:
-    vector<vector<int>> memo;
+    vector<vector<int>> dp;
 
-    int countCombinations(int amount, vector<int>& coins, int index) {
-        if (amount == 0) return 1;
-        if (amount < 0 || index == coins.size()) return 0;
-        if (memo[amount][index] != -1) return memo[amount][index];
+    int countCombinations(int amount, int idx, vector<int>& coins) {
+        if(amount == 0)
+            return 1;
+        if(idx == coins.size() || amount < 0)
+            return 0;
 
-        int include = countCombinations(amount - coins[index], coins, index);
-        int exclude = countCombinations(amount, coins, index + 1);
+        if(dp[amount][idx] != -1)
+            return dp[amount][idx];
 
-        return memo[amount][index] = include + exclude;
+        int inc = countCombinations(amount - coins[idx], idx, coins);
+        int exc = countCombinations(amount, idx + 1, coins);
+
+        return dp[amount][idx] = inc + exc;
     }
 
     int change(int amount, vector<int>& coins) {
-        memo.resize(amount + 1, vector<int>(coins.size(), -1));
-        return countCombinations(amount, coins, 0);
+        dp.resize(amount + 1, vector<int>(coins.size(), -1));
+        return countCombinations(amount, 0, coins);
     }
 };
