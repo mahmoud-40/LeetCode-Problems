@@ -190,6 +190,7 @@ This repository contains my solutions to LeetCode problems.
 | [0692-top-k-frequent-words](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0952-word-subsets) |
+| [1274-number-of-days-between-two-dates](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1274-number-of-days-between-two-dates) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -232,6 +233,7 @@ This repository contains my solutions to LeetCode problems.
 | [0070-climbing-stairs](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
+| [1274-number-of-days-between-two-dates](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1274-number-of-days-between-two-dates) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
