@@ -192,6 +192,7 @@ This repository contains my solutions to LeetCode problems.
 | [0952-word-subsets](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1274-number-of-days-between-two-dates](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1274-number-of-days-between-two-dates) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -203,6 +204,7 @@ This repository contains my solutions to LeetCode problems.
 | [0134-gas-station](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2509-minimize-xor](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2509-minimize-xor) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting
