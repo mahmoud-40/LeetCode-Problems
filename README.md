@@ -128,6 +128,7 @@ This repository contains my solutions to LeetCode problems.
 | [0064-minimum-path-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
@@ -227,6 +228,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
@@ -280,6 +282,7 @@ This repository contains my solutions to LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
@@ -298,6 +301,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
@@ -315,6 +319,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
