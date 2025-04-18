@@ -148,6 +148,7 @@ This repository contains my solutions to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -302,6 +303,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0207-course-schedule](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -336,4 +338,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
