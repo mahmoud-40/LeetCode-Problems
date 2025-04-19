@@ -1,50 +1,38 @@
 class Solution {
-    unordered_map<int, vector<int>> preMap; // course -> prerequisites
-    unordered_set<int> visiting;  // current DFS path
-    unordered_set<int> visited;   // fully processed courses
-    vector<int> result;           // stores the topological order
+    vector<vector<int>> graph;  // adjacency list
+    vector<int> visited;       // 0=unvisited, 1=visiting, 2=visited
+    vector<int> result;
 
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        // Initialize preMap
-        for (int i = 0; i < numCourses; i++) {
-            preMap[i] = {};
-        }
-        for (const auto& prereq : prerequisites) {
-            preMap[prereq[0]].push_back(prereq[1]);
+        // Build graph
+        graph.resize(numCourses);
+        for (const auto& p : prerequisites) {
+            graph[p[0]].push_back(p[1]);  // p[0] depends on p[1]
         }
 
-        // Check for cycles and build topological order
-        for (int c = 0; c < numCourses; c++) {
-            if (!dfs(c)) {
-                return {}; // cycle detected → return empty list
-            }
+        // Initialize visited
+        visited.resize(numCourses, 0);
+
+        // Perform DFS
+        for (int i = 0; i < numCourses; ++i) {
+            if (!dfs(i)) return {};
         }
 
         return result;
     }
 
-    bool dfs(int crs) {
-        if (visiting.count(crs)) {
-            // Cycle detected
-            return false;
-        }
-        if (visited.count(crs)) {
-            // Already processed (no cycle)
-            return true;
+    bool dfs(int course) {
+        if (visited[course] == 1) return false;  // cycle detected
+        if (visited[course] == 2) return true;   // already processed
+
+        visited[course] = 1;  // mark as visiting
+        for (int prereq : graph[course]) {
+            if (!dfs(prereq)) return false;
         }
 
-        visiting.insert(crs);
-        for (int pre : preMap[crs]) {
-            if (!dfs(pre)) {
-                return false;
-            }
-        }
-
-        // Backtrack: remove from visiting, mark as visited
-        visiting.erase(crs);
-        visited.insert(crs);
-        result.push_back(crs); // Add to topological order
+        visited[course] = 2;  // mark as completed
+        result.push_back(course);
         return true;
     }
 };
