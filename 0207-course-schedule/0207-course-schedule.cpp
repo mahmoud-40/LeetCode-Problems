@@ -30,7 +30,7 @@ public:
     }
 
     bool canFinish(int numCourses, const std::vector<std::vector<int>>& prerequisites) {
-        for (const auto& prereq : prerequisites) {
+        for (auto prereq : prerequisites) {
             preMap[prereq[0]].push_back(prereq[1]);
         }
 
