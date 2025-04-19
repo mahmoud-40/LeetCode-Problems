@@ -5,16 +5,13 @@ class Solution {
 
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        // Build graph
         graph.resize(numCourses);
         for (const auto& p : prerequisites) {
             graph[p[0]].push_back(p[1]);  // p[0] depends on p[1]
         }
 
-        // Initialize visited
         visited.resize(numCourses, 0);
 
-        // Perform DFS
         for (int i = 0; i < numCourses; ++i) {
             if (!dfs(i)) return {};
         }
