@@ -1,45 +1,33 @@
 class Solution {
+    vector<vector<int>> graph;  // adjacency list
+    vector<int> visited;       // 0=unvisited, 1=visiting, 2=visited
+
 public:
-    // Map each course to its prerequisites
-    unordered_map<int, vector<int>> preMap;
-    // Store all courses along the current DFS path
-    unordered_set<int> vis;
-
-
-    bool dfs(int crs){
-        if(vis.count(crs)){ // cycle exist
-            return false;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        graph.resize(numCourses);
+        for (const auto& p : prerequisites) {
+            graph[p[0]].push_back(p[1]);  // p[0] depends on p[1]
         }
 
-        if(preMap[crs].empty()){
-            return true;
+        visited.resize(numCourses, 0);
+
+        for (int i = 0; i < numCourses; ++i) {
+            if (!dfs(i)) return false;
         }
-
-        vis.insert(crs);
-
-        for(auto pre : preMap[crs]){
-            if(!dfs(pre)){
-                return false;
-            }
-        }
-
-        vis.erase(crs);
-        preMap[crs].clear();
 
         return true;
     }
 
-    bool canFinish(int numCourses, const std::vector<std::vector<int>>& prerequisites) {
-        for (auto prereq : prerequisites) {
-            preMap[prereq[0]].push_back(prereq[1]);
+    bool dfs(int course) {
+        if (visited[course] == 1) return false;  // cycle detected
+        if (visited[course] == 2) return true;   // already processed
+
+        visited[course] = 1;  // mark as visiting
+        for (int prereq : graph[course]) {
+            if (!dfs(prereq)) return false;
         }
 
-        for(int crs = 0; crs < numCourses; crs++){
-            if(!dfs(crs)){
-                return false;
-            }
-        }
-
+        visited[course] = 2;  // mark as completed
         return true;
     }
 };
