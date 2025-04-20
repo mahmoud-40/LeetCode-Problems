@@ -14,24 +14,20 @@ public:
         ListNode* dummy = new ListNode(0);
         dummy->next = head;
         
-        int size = 0;
-        ListNode* curr = head;
-        while (curr) {
-            size++;
-            curr = curr->next;
+        ListNode* slow = dummy;
+        ListNode* fast = dummy;
+
+        for(int i = 0; i <= n; i++){ // fast moves n + 1 steps forward
+            fast = fast->next;
         }
-        
-        ListNode* prev = dummy;
-        for (int i = 0; i < size - n; i++) {
-            prev = prev->next;
-        }
-        
-        ListNode* toDelete = prev->next;
-        prev->next = prev->next->next;
-        delete toDelete;  
-        
-        ListNode* result = dummy->next;
-        delete dummy; 
-        return result;
+
+        while(fast){ // then both slow and fast moves together.
+            slow = slow->next;
+            fast = fast->next;
+        } // when fast reaches the last node, the slow is on the (n - 1) node
+
+        slow->next = slow->next->next; // so now we connect (n - 1) -> (n + 1)
+
+        return dummy->next;
     }
 };
