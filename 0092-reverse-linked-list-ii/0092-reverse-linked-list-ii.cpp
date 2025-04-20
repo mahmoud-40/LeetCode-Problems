@@ -13,35 +13,26 @@ public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         if (!head || left == right) return head;
         
-        int idx = 1; 
-        ListNode* start = head;
-        ListNode* prev = nullptr;
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+        ListNode* prev = dummy;
         
-        while (idx < left && start) {
-            prev = start;
-            start = start->next;
-            idx++;
+        // Move `prev` to the node before `left`
+        for (int i = 1; i < left; i++) {
+            prev = prev->next;
         }
         
-        if (!start) return head; 
-        
-        ListNode* curr = start;
+        ListNode* curr = prev->next;
         ListNode* next = nullptr;
-        ListNode* tail = start;
         
-        while (idx <= right && curr) {
+        // Reverse `right - left + 1` nodes
+        for (int i = 0; i < right - left; i++) {
             next = curr->next;
-            curr->next = prev ? prev->next : head;
-            if (prev) {
-                prev->next = curr;
-            } else {
-                head = curr;
-            }
-            tail->next = next;
-            curr = next;
-            idx++;
+            curr->next = next->next;
+            next->next = prev->next;
+            prev->next = next;
         }
         
-        return head;
+        return dummy->next;
     }
 };
