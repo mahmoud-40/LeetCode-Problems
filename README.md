@@ -242,6 +242,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
@@ -296,6 +297,7 @@ This repository contains my solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
@@ -336,6 +338,7 @@ This repository contains my solutions to LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 ## Union Find
 |  |
