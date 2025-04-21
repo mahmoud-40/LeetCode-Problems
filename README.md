@@ -174,6 +174,7 @@ This repository contains my solutions to LeetCode problems.
 | [0133-clone-graph](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0768-partition-labels) |
@@ -306,6 +307,7 @@ This repository contains my solutions to LeetCode problems.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
@@ -374,4 +376,12 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0207-course-schedule](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
