@@ -1,21 +1,19 @@
 class Solution {
 public:
+
+    int solve(vector<int>& A, int i, bool mustPick, vector<vector<int>>& dp) {
+        if(i >= size(A)) return mustPick ? 0 : -1e5;
+        if(dp[mustPick][i] != -1) return dp[mustPick][i];
+        if(mustPick)
+            return dp[mustPick][i] = max(0, A[i] + solve(A, i+1, true, dp));
+        return dp[mustPick][i] = max(solve(A, i+1, false, dp), A[i] + solve(A, i+1, true, dp));
+    }
+
     int maxSubarraySumCircular(vector<int>& nums) {
+        vector<vector<int>> dp(2, vector<int>(size(nums), -1));
+        int mx = solve(nums, 0, false, dp);
+
         int sum = 0, mxSum = INT_MIN;
-
-        // start ... end
-        // 3 ....... 2
-        // 0 ....... size
-        // 1 ....... 0
-        // sum = 0 -> st = i + 1 ... ed = i
-        // 1 2 3 4 5
-        //   ed st
-        // (7 % 5)
-        // 1 -2 3 -2
-        // 1  1 2  2
-        // 1 1 1 -2
-
-        // max(mxSum, pref[i] + suff[i + 1])
 
         vector<int> pref(nums.size() + 1, 0);
         vector<int> suff(nums.size() + 1, 0);
@@ -40,14 +38,7 @@ public:
         }
 
         for(int i = 0; i < nums.size(); i++){ 
-            sum += nums[i]; 
-
-            mxSum = max({sum, mxSum, pref[i] + suff[i + 1]}); 
-
-            if(sum < 0) 
-            {    
-                sum = 0; 
-            }
+            mxSum = max({mx, pref[i] + suff[i + 1]}); 
         }
 
         return mxSum;
