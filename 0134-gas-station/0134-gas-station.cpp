@@ -5,7 +5,7 @@ public:
         int start = 0;
         int sumA = 0,sumB = 0;
         for(int i=0;i<gas.size();i++){
-            totalGas = totalGas + gas[i] - cost[i];
+            totalGas += (gas[i] - cost[i]);
             sumA+=gas[i], sumB += cost[i];
             if(totalGas<0) {
                 totalGas = 0;
