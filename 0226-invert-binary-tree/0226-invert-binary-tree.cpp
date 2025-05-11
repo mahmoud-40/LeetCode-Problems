@@ -21,11 +21,7 @@ public:
             return;
         }
 
-        TreeNode* temp1 = node->left;
-        TreeNode* temp2 = node->right;
-
-        node->right = temp1;
-        node->left = temp2;
+        swap(node->right, node->left);
 
         dfs(node->right);
         dfs(node->left);
