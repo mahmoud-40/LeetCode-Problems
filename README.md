@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [3427-special-array-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3427-special-array-ii) |
@@ -246,6 +247,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2509-minimize-xor](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -329,6 +331,7 @@ This repository contains my solutions to LeetCode problems.
 | [0100-same-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
@@ -361,6 +364,7 @@ This repository contains my solutions to LeetCode problems.
 | [0100-same-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
