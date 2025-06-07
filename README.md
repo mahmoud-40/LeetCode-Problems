@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode problems.
 | [0692-top-k-frequent-words](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [2868-continuous-subarrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Ordered Set
 |  |
 | ------- |
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode problems.
 | [0020-valid-parentheses](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,6 +195,7 @@ This repository contains my solutions to LeetCode problems.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -216,6 +219,7 @@ This repository contains my solutions to LeetCode problems.
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
@@ -230,6 +234,7 @@ This repository contains my solutions to LeetCode problems.
 | [1502-construct-k-palindrome-strings](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2509-minimize-xor](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2509-minimize-xor) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting
 |  |
