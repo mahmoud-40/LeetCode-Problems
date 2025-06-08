@@ -247,6 +247,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Memoization
 |  |
@@ -365,6 +366,7 @@ This repository contains my solutions to LeetCode problems.
 | [0226-invert-binary-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
