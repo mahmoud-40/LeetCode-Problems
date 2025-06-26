@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2058-concatenation-of-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -428,4 +429,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
