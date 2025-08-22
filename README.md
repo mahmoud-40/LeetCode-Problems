@@ -122,6 +122,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
@@ -287,6 +288,7 @@ This repository contains my solutions to LeetCode problems.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0768-partition-labels](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sorting
@@ -336,6 +338,7 @@ This repository contains my solutions to LeetCode problems.
 | [0141-linked-list-cycle](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -393,6 +396,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mahmoud-40/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Union Find
 |  |
 | ------- |
