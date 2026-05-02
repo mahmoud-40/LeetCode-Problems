@@ -1,28 +1,38 @@
 1class Solution {
-2    public boolean isGood(int n){
-3        boolean has_different = false;
-4        String str = String.valueOf(n);
-5        
-6        for (int i = 0; i < str.length(); i++){
-7            char c = str.charAt(i);
-8            
-9            if(c == '3' || c == '4' || c == '7'){
-10                return false;
-11            }
-12            else if(c == '2' || c == '5' || c == '6' || c == '9'){
-13                has_different = true;
-14            }
-15        }
-16        return has_different;
-17    } 
+2    String s;
+3
+4    int dp(int[][][] memo, int pos, boolean tight, boolean hasChanged){
+5        if(pos == s.length()){
+6            return hasChanged ? 1 : 0;
+7        }
+8
+9        if(memo[pos][tight ? 1 : 0][hasChanged ? 1 : 0] != -1){
+10            return memo[pos][tight ? 1 : 0][hasChanged ? 1 : 0];
+11        }
+12
+13        int limit = tight ? (s.charAt(pos) - '0') : 9;
+14        int count = 0;
+15
+16        for (int d = 0; d <= limit; d++){
+17            if(d == 3 || d == 4 || d == 7) continue;
 18
-19    public int rotatedDigits(int n) {
-20        int count = 0;
-21        for(int i = 1; i <= n; i++){ 
-22            if(isGood(i)){
-23                count++;
-24            }
-25        }
-26        return count;
-27    }
-28}
+19            boolean newTight = tight && (d == limit);
+20            boolean newChanged = hasChanged || (d == 2 || d == 5 || d == 6 || d == 9);
+21
+22            count += dp(memo, pos + 1, newTight, newChanged);
+23        }
+24
+25        return memo[pos][tight ? 1 : 0][hasChanged ? 1 : 0] = count;
+26    }
+27
+28    public int rotatedDigits(int n) {
+29        s = String.valueOf(n);
+30        int[][][] memo = new int[s.length()][2][2];
+31
+32        for(int[][] a : memo)
+33            for(int[] b : a)
+34                Arrays.fill(b, -1);
+35
+36        return dp(memo, 0, true, false);
+37    }
+38}
