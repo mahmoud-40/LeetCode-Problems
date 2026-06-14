@@ -20,24 +20,25 @@
 20        
 21        ListNode prev = null;
 22        ListNode curr = slow; 
-23        
-24        while (curr != null) {
-25            ListNode temp = curr.next; 
-26            curr.next = prev;           
-27            prev = curr;                 
-28            curr = temp;       
-29        }
-30        
-31        int mx_sum = 0;
-32        ListNode first = head;
-33        ListNode sec = prev;
-34        
-35        while (sec != null) {
-36            mx_sum = Math.max(mx_sum, first.val + sec.val);
-37            first = first.next;
-38            sec = sec.next;
-39        }
-40        
-41        return mx_sum;
-42    }
-43}
+23        ListNode temp; 
+24        
+25        while (curr != null) {
+26            temp = curr.next; 
+27            curr.next = prev;           
+28            prev = curr;                 
+29            curr = temp;       
+30        }
+31        
+32        int mx_sum = 0;
+33        ListNode first = head;
+34        ListNode sec = prev;
+35        
+36        while (sec != null) {
+37            mx_sum = Math.max(mx_sum, first.val + sec.val);
+38            first = first.next;
+39            sec = sec.next;
+40        }
+41        
+42        return mx_sum;
+43    }
+44}
